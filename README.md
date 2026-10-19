@@ -238,4 +238,4 @@ This repository serves as the official landing page for ALLPlayer. The software 
 **Get the most recent version of ALLPlayer today!**
 
 ---
-**Last updated:** 2026-10-19 11:32:09 UTC
+**Last updated:** 2026-10-19 17:56:21 UTC
